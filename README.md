@@ -86,7 +86,7 @@ python main.py
 ---
 
 ## 📄 License
-This project is open-source and free to use. NO FORMAL LICENCE HAS BBEN CREATED.
+This project is open-source and free to use. NO FORMAL LICENCE HAS BEEN CREATED.
 ---
 
 💡 *Built with Python and Pygame.*
