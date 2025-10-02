@@ -7,12 +7,14 @@ The result (**WIN / LOSE / DRAW**) is displayed along with corresponding images.
 ---
 
 ## 📸 Screenshot
-*(Optional — add your screenshot here)*  
+
+_(Optional — add your screenshot here)_  
 ![Game Screenshot]("https://i.ibb.co/SwZM9gQ9/Screenshot-2025-08-11-131121.png")
 
 ---
 
 ## 🚀 Features
+
 - 🎯 Interactive UI with clickable buttons for Rock, Paper, and Scissors.
 - 🤖 Randomized CPU choices.
 - 🖼 Visual feedback with images for each choice.
@@ -22,9 +24,11 @@ The result (**WIN / LOSE / DRAW**) is displayed along with corresponding images.
 ---
 
 ## 🛠 Requirements
+
 Ensure you have **Python 3.x** installed, along with Pygame.
 
 Install dependencies via:
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -32,13 +36,16 @@ pip install -r requirements.txt
 ---
 
 ## ▶ How to Run
-1. **Download or Clone this repository**  
+
+1. **Download or Clone this repository**
+
    ```bash
    git clone https://github.com/xpolion2005/rock-paper-scissors-pygame.git
    cd rock-paper-scissors-pygame
    ```
 
 2. **Ensure your folder structure looks like this:**
+
 ```
 project/
 │
@@ -58,6 +65,7 @@ project/
 ```
 
 3. **Run the game**
+
 ```bash
 python main.py
 ```
@@ -65,12 +73,14 @@ python main.py
 ---
 
 ## 🎮 Controls
+
 - **Click** the Rock, Paper, or Scissor button to make your move.
 - The CPU will automatically pick its move.
 
 ---
 
 ## 📜 Game Rules
+
 - 🪨 **Rock beats Scissors**
 - ✂ **Scissors beat Paper**
 - 📄 **Paper beats Rock**
@@ -79,6 +89,7 @@ python main.py
 ---
 
 ## 🧩 Future Improvements
+
 - 📊 Add a scoring system.
 - 🔢 Track number of rounds played.
 - 🔊 Add sound effects for wins/losses.
@@ -87,8 +98,9 @@ python main.py
 ---
 
 ## 📄 License
+
 This project is open-source and free to use under the MIT License.
 
 ---
 
-💡 *Built with Python and Pygame.*
+💡 _Built with Python and Pygame._
