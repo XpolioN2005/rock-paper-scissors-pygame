@@ -8,14 +8,7 @@ The result (**WIN / LOSE / DRAW**) is displayed along with corresponding images.
 
 ## 📸 Screenshot
 
-<<<<<<< HEAD
-
-_(Optional — add your screenshot here)_  
-![Game Screenshot]("https://i.ibb.co/SwZM9gQ9/Screenshot-2025-08-11-131121.png")
-=======
 ![Game Screenshot](https://i.ibb.co/SwZM9gQ9/Screenshot-2025-08-11-131121.png)
-
-> > > > > > > 8926a658400cbafeb9376723a57be7c401d70845
 
 ---
 
